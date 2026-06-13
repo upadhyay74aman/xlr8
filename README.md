@@ -3,9 +3,15 @@
 > Run a powerful LLM **completely free**, **completely private**, on your own machine. No API keys. No subscriptions. No data leaving your PC.
 
 ```bash
-pip install xlr8
+
+#— Install from source (works now)
+git clone https://github.com/upadhyay74aman/xlr8.git
+cd xlr8
+pip install -e .
 xlr8
 ```
+
+Not Published on PyPI yet..
 
 That's it. Xlr8 handles everything else automatically.
 
