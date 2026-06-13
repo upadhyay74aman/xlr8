@@ -1,4 +1,4 @@
-# ⚡ Xlr8 — Free Local AI on Your GPU
+# Xlr8 — Your Free Local AI on Your GPU
 
 > Run a powerful LLM **completely free**, **completely private**, on your own machine. No API keys. No subscriptions. No data leaving your PC.
 
