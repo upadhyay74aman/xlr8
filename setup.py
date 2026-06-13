@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="xlr8",
+    name="xlr8-cli",
     version="1.0.0",
     packages=find_packages(),
     py_modules=["main"],
