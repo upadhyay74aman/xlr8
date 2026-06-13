@@ -3,8 +3,11 @@ models/
 bin/
 *.dll
 *.bak
+*.so
+*.exe
 __pycache__/
 *.egg-info/
 dist/
 build/
 .env
+xlr8.spec
