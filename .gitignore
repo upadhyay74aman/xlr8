@@ -1,0 +1,10 @@
+models/
+*.gguf
+bin/
+*.dll
+*.bak
+__pycache__/
+*.egg-info/
+dist/
+build/
+.env
